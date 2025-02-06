@@ -7,7 +7,7 @@ Patricia Pérez García.
 
 Este repositorio contiene un análisis de los éxitos de Spotify entre 2010 y 2019, utilizando datos de Kaggle. Se ha generado un informe en RMarkdown que examina las tendencias en los artistas más populares, los géneros con mayor éxito y la evolución de la duración de las canciones.
 
-Estructura del repositorio
+## Estructura del repositorio
 
     data/ → Contiene el archivo top10s.csv con los datos utilizados en el análisis.
 
